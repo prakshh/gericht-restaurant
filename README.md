@@ -17,9 +17,9 @@ This is a code repository for the Modern UI/UX Restaurant Website, named as 'Ger
 
 ## References
 
-Figma File - https://www.figma.com/file/yvClSI9AZBRX8UaaGEByF3/Modern-UI%2FUX%3A-Gericht
-UI8 Gericht - https://ui8.net/iqonicdesign/products/gericht-restaurant-website-ui-in-figma 
-BEM Educational Link - https://sparkbox.com/foundry/bem_by_example
+- Figma File - https://www.figma.com/file/yvClSI9AZBRX8UaaGEByF3/Modern-UI%2FUX%3A-Gericht
+- UI8 Gericht - https://ui8.net/iqonicdesign/products/gericht-restaurant-website-ui-in-figma 
+- BEM Educational Link - https://sparkbox.com/foundry/bem_by_example
 
 ## More Screenshots
 
