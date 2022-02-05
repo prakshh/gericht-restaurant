@@ -1,5 +1,5 @@
 # Figma Design to Code - Gericht 
-### [Live Site](https://gericht-restaurant-prakshh.netlify.app/)
+## [Live Site](https://gericht-restaurant-prakshh.netlify.app/)
 
 ![gericht1](public/screenshots/1.png)
 
